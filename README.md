@@ -1,18 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# Formulario en java fx
+Se ha creado un formulario con anchopane ubicando toda clase de botones, listas, labels, entre otros. Todo esto para simular un formulario y poder ubicar cuando queramos cualquiera de las opciones presentadas en la siguiente imágen (print de toda la pantalla para constatar la realización por parte del estudiante).
+![imagen](https://github.com/AntonioSalazar2/Fomulario-javafx_Antonio-Salazar/assets/168608885/4d669e2d-717a-43de-9827-58e9bc8838a7)
